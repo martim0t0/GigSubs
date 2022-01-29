@@ -4,6 +4,7 @@ const Navbar = () => {
   return (
     <nav>
       <div className="logo">
+        <img src="../public/GigSubsCasette.png" alt="" />
         <h1>GigSubs</h1>
       </div>
       <Link href="/">

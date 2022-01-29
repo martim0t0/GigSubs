@@ -1,0 +1,16 @@
+.hero {
+  min-width: 100%;
+  height: 40vh;
+  background: url(../../public/acoustic-guitarist.jpeg) no-repeat center center
+    fixed;
+  background-size: cover;
+}
+
+.flex-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 50%vh;
+  max-width: 96rem;
+  margin: 0 auto;
+}
