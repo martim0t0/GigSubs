@@ -1,15 +1,15 @@
-@import "./sass/abstracts/helpers";
-@import "./sass/abstracts/mixins";
-@import "./sass/abstracts/variables";
+@import "./styles/abstracts/helpers";
+@import "./styles/abstracts/mixins";
+@import "./styles/abstracts/variables";
 
-@import "./sass/base/base";
-@import "./sass/base/typography";
+@import "./styles/base/base";
+@import "./styles/base/typography";
 
-@import "./sass/components/buttons";
-@import "./sass/components/header";
-@import "./sass/components/footer";
+@import "./styles/components/buttons";
+@import "./styles/components/header";
+@import "./styles/components/footer";
 
-@import "./sass/layout/footer";
-@import "./sass/layout/sections";
+@import "./styles/layout/footer";
+@import "./styles/layout/sections";
 
-@import "./sass/styles/homepage";
+@import "./styles/sections/homepage";

@@ -5,7 +5,10 @@ import styles from "../styles/Home.module.scss";
 export default function Home() {
   return (
     <div>
-      <div className="hero">TEST</div>
+      <div className="hero">
+        <h1>Find the musical talent you need.</h1>
+        <h3>Search musicians, bands, substitutes for a gig and more.</h3>
+      </div>
 
       <div className="flex-container">
         <h1>Homepage</h1>

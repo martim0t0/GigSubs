@@ -1,6 +1,6 @@
 import Layout from "../comps/Layout";
-import "../styles/globals.css";
-import "../sass/sections/_homepage.scss";
+import "../styles/globals.scss";
+import "../styles/sections/_homepage.scss";
 
 function MyApp({ Component, pageProps }) {
   return (

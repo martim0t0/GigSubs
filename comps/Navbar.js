@@ -1,12 +1,11 @@
 import Link from "next/link";
+// import styles from "../styles/components/_header.scss";
 
 const Navbar = () => {
   return (
     <nav>
-      <div className="logo">
-        <img src="../public/GigSubsCasette.png" alt="" />
-        <h1>GigSubs</h1>
-      </div>
+      <img className="logo" src="../GigSubsLogo.png" alt="GigSubs Logo" />
+
       <Link href="/">
         <a>Home</a>
       </Link>

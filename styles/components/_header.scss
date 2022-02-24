@@ -1,0 +1,16 @@
+nav {
+  margin: 1rem auto 8rem;
+  padding: 1rem 3rem;
+  display: flex;
+  justify-content: flex-end;
+  align-items: flex-end;
+  border-bottom: 1px solid #ddd;
+}
+
+nav a {
+  margin-left: 1.2rem;
+}
+
+nav .logo {
+  margin-right: auto;
+}

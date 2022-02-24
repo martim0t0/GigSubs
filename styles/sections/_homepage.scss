@@ -4,6 +4,14 @@
   background: url(../../public/acoustic-guitarist.jpeg) no-repeat center center
     fixed;
   background-size: cover;
+  color: white;
+  font-weight: 100;
+}
+
+.large-text {
+  display: flex;
+  align-items: center;
+  justify-content: center;
 }
 
 .flex-container {
@@ -13,4 +21,8 @@
   height: 50%vh;
   max-width: 96rem;
   margin: 0 auto;
+}
+
+.logo {
+  max-width: 35rem;
 }
